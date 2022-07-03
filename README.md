@@ -1,4 +1,4 @@
 # minishell
 
-with myukang
-myukang carry
+with myukang\n
+myukang bus
